@@ -1,4 +1,4 @@
-class changedToExceptionnewCode {
+class changedToExceptionnewCodePR2 {
   protected string asdf() {
     Blob encrypted = Crypto.encrypt('AES128', key, exampleIv, data);
   }
